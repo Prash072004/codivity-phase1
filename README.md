@@ -252,10 +252,6 @@ The `backend/package.json` in this snapshot has a placeholder `npm test` script 
 - **Security and scaling:** Container-level restrictions do not by themselves establish production-grade sandboxing. Public, multi-tenant judging requires additional hardening, monitoring, and operational controls.
 - **Testing:** A complete automated backend/integration test suite is not provided in this snapshot.
 
-## Roadmap (not included in Phase 1)
-
-Later development may include a worker-based sample Run flow, compile-once execution, refined result panels, expanded contest and learning tools, production worker hosting, and richer operational checks. These are **future or separate-version capabilities**, not claims about this archive.
-
 ## Maintainer
 
 **[Prash072004](https://github.com/Prash072004)** — Codivity project.
